@@ -1,0 +1,19 @@
+{
+  "students": [
+    {
+      "imie": "Jan",
+      "nazwisko": "Kowalski",
+      "wiek": "75"
+    },
+    {
+      "imie": "Anna",
+      "nazwisko": "Nowak",
+      "wiek": "22"
+    },
+    {
+      "imie": "Piotr",
+      "nazwisko": "Wiśniewski",
+      "wiek": "30"
+    }
+  ]
+}
